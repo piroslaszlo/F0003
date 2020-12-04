@@ -1,3 +1,3 @@
 név = input('Hogy hívnak téged? ')
-print('Szervusz ', név, ', örülök, hogy találkoztunk.', sep='')
+print('Szervusz ', Piros László., ', örülök, hogy találkoztunk.', sep='')
 
